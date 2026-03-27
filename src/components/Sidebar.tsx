@@ -10,6 +10,7 @@ const nav = [
   { href: "/cultos", label: "Cultos", icon: "⛪" },
   { href: "/grupos", label: "Grupos", icon: "🏘️" },
   { href: "/voluntarios", label: "Voluntários", icon: "🙋" },
+  { href: "/musicas", label: "Músicas", icon: "🎵" },
   { href: "/kids", label: "Kids", icon: "👶" },
   { href: "/config", label: "Configurações", icon: "⚙️" },
 ];
